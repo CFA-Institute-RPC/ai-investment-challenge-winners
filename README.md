@@ -16,13 +16,13 @@ This repository indexes the three winning teams' solutions. Each entry links to 
 |---|---|---|---|---|---|
 | 1st | The Transparency Project | Lancaster University | DDDS — Disclosure Degradation Detection System: AI's role in addressing the volume problem in supply chain risk | [xbradmx/CFA_Institute](https://github.com/xbradmx/CFA_Institute) | Coming soon |
 | 2nd | QuantFin Exeter | University of Exeter | Using AI to Develop Optimal Trade Execution Strategies ([live demo](https://quantfin.dev/execution)) | [KirikPapka/quantfin_exeter](https://github.com/KirikPapka/quantfin_exeter) | Coming soon |
-| 3rd | EarningsIQ | Heriot-Watt University & University of Glasgow | EarningsIQ — A Multimodal Earnings Call Intelligence Platform ([live demo](https://earningsiq.streamlit.app)) | [williamkarmstrong/earnings-iq](https://github.com/williamkarmstrong/earnings-iq) | [Enterprising Investor](https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/can-ai-decode-what-management-says-in-earnings-call) |
+| 3rd | EarningsIQ | Heriot-Watt University | EarningsIQ — A Multimodal Earnings Call Intelligence Platform ([live demo](https://earningsiq.streamlit.app)) | [williamkarmstrong/earnings-iq](https://github.com/williamkarmstrong/earnings-iq) | [Enterprising Investor](https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/can-ai-decode-what-management-says-in-earnings-call) |
 
 ### Teams
 
 - **The Transparency Project** (Lancaster University): Bradley McCann, Connor O'Keeffe, Ebro Dossajee
 - **QuantFin Exeter** (University of Exeter): Kirill Papka, Harrison Maxwell, Maksim Kitikov, Thomas Nguyen
-- **EarningsIQ** (Heriot-Watt University & University of Glasgow): William Armstrong, Archie Clark, James Hillan, Zac Moraghan
+- **EarningsIQ** (Heriot-Watt University): William Armstrong, Archie Clark, James Hillan, Zac Moraghan
 
 ## Enterprising Investor blog series
 
