@@ -36,6 +36,8 @@ The top three finalists are being showcased in a three-part series on the CFA In
 
 [RPC Labs](https://rpc.cfainstitute.org/themes/technology/rpclabs) is a CFA Institute Research and Policy Center initiative fostering collaboration between finance professionals, data scientists, and developers. Explore more at the [RPC Labs GitHub organization](https://github.com/CFA-Institute-RPC).
 
-## Notes on attribution and licensing
+## Disclaimer
+
+**These repositories are managed by the winning teams. CFA Institute makes no claim on the safety or integrity of their solution. Check dependencies and security before cloning to your local environment.**
 
 Linked repositories are the property of their respective teams and are governed by the licenses stated in each repository. This index links to that work for attribution and discovery; it does not host, fork, or redistribute it.
